@@ -11,9 +11,9 @@ Hello, I’m **Jordan Murray**, a **Senior Software Developer** and **Team Lead*
 - **Side Projects**: Personal projects that focus on topics like real-time data processing, microservices, and cloud-based applications.
 
 ### Technical Stack:
-- **Languages**: C#, JavaScript, TypeScript, SQL
+- **Languages**: C#, JavaScript, TypeScript, SQL, Terraform
 - **Frameworks**: .NET Core, ASP.NET, Entity Framework, WPF
-- **Cloud**: Microsoft Azure (Functions, Event Hubs, App Services, Cosmos)
+- **Cloud**: Microsoft Azure (Functions, App Services, Cosmos)
 - **DevOps**: Docker, Kubernetes, CI/CD
 - **Tools**: Git, Visual Studio, VS Code
 

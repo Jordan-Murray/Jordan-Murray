@@ -14,7 +14,7 @@ Hello, I’m **Jordan Murray**, a **Senior Software Developer** and **Team Lead*
 - **Languages**: C#, JavaScript, TypeScript, SQL
 - **Frameworks**: .NET Core, ASP.NET, Entity Framework, WPF
 - **Cloud**: Microsoft Azure (Functions, Event Hubs, App Services, Cosmos)
-- **DevOps**: Docker, Kubernetes, CI/CD with GitHub Actions
+- **DevOps**: Docker, Kubernetes, CI/CD
 - **Tools**: Git, Visual Studio, VS Code
 
 ### Contact Information:

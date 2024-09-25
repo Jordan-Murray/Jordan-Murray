@@ -18,6 +18,6 @@ Hello, I’m **Jordan Murray**, a **Senior Software Developer** and **Team Lead*
 - **Tools**: Git, Visual Studio, VS Code
 
 ### Contact Information:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jordan-m-60203a135/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jordan-m-60203a135/)
 
 Feel free to explore my projects and repositories. I’m always open to collaboration and learning new things.

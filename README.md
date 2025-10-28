@@ -15,5 +15,6 @@ Hello, I’m **Jordan Murray**, a **Senior Software Developer** and **Team Lead*
 
 ### Contact Information:
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jordan-m-60203a135/)
+- **Blog**: [JordanMurray.Dev](https://jordanmurray.hashnode.dev/)
 
 Feel free to explore my projects and repositories. I’m always open to collaboration and learning new things.
